@@ -14,5 +14,5 @@ Towards the end the course, you will create a final project with a Jupyter Noteb
 
 
 <p align="center">
-<img src="/IBM_Courses/Tools_for_Data_Science/pec.png" width=80% height=80%>
+<img src="/IBM_Courses/Tools_for_Data_Science/Tools_Data_Science.png" width=80% height=80%>
 
