@@ -11,3 +11,6 @@ Throughout this course, you'll gain valuable experience working with data sets a
 There is a strong focus on practice and applied learning in this course. With each lab, you'll have the opportunity to manipulate data and gain hands-on experience using Excel. You'll learn how to clean and format your data efficiently, and convert it into a pivot table to make it more organized and readable. The final project will allow you to showcase your newly acquired data analysis skills by working with real data sets and spreadsheets. 
  
 By the end of this course, you'll have a solid foundation in using Excel for data analysis. You'll have worked with multiple data sets and spreadsheets, and will have the skills and knowledge needed to effectively clean and analyze data without having to learn any code. So let's get started!
+
+<p align="center">
+<img src="/IBM_Courses/Excel_Basics_for_Data_Analyst/excel_basics_data_analysis.png" width=80% height=80%>
