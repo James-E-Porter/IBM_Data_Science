@@ -18,4 +18,4 @@ To apply the methodology, you will work on a real-world inspired scenario and wo
 
 
 <p align="center">
-<img src="/Intro_Data_Science_Spec.png" width=80% height=80%>
+<img src="/IBM_Courses/Data_Science_Methodology/Methodology.png" width=80% height=80%>
