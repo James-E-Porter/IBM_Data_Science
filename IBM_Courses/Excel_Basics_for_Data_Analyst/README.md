@@ -1,5 +1,4 @@
-# Excel Basics for Data Analysis
-## by IBM Skills Network
+# Excel Basics for Data Analysis   <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ### About this Course
 Spreadsheet tools like Excel are an essential tool for working with data - whether for data analytics, business, marketing, or research. This course is designed to give you a basic working knowledge of Excel and how to use it for analyzing data. 
