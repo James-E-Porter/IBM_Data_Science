@@ -23,3 +23,6 @@ At the core of data science are foundational concepts such as data visualization
 
 
 - [x] [__IBM Applied Data Science__](https://github.com/James-E-Porter/IBM_Data_Science/blob/43dca40451f2824cbbbb22c11554052bf6e86c61/IBM_Applied_Data_Science/README.md)
+
+
+- [x] [__IBM Data Analysis and Visualization Foundationse__](https://github.com/James-E-
