@@ -10,5 +10,5 @@ PRE-REQUISITE: **Python for Data Science, AI and Development** course from IBM i
 NOTE: This course is not intended to teach you Python and does not have too much instructional content. It is intended for you to apply prior Python knowledge.
 
 <p align="center">
-<img src="/IBM_Courses/What_is_Data_Science/What_Data_Science.png" width=80% height=80%>
+<img src="/IBM_Courses/Python_Project_Data_Science/python_project.png" width=80% height=80%>
 
