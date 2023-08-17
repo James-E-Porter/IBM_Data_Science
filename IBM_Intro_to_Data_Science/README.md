@@ -1,17 +1,14 @@
 # IBM Introduction to Data Science Specialization <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
+<p align="center">
+<img src="/IBM_Intro_to_Data_Science/Intro_Data_Science_Spec.png" width=80% height=80%>
+
+---
+
 ## About this Specialization Certificate
 This Specialization will introduce you to what data science is and what data scientists do. You’ll discover the applicability of data science across fields, and learn how data analysis can help you make data driven decisions. You’ll find that you can kickstart your career path in the field without prior knowledge of computer science or programming languages: this Specialization will give you the foundation you need for more advanced learning to support your career goals.
 
 You’ll grasp concepts like big data, statistical analysis, and relational databases, and gain familiarity with various open source tools and data science programs used by data scientists, like Jupyter Notebooks, RStudio, GitHub, and SQL. You'll complete hands-on labs and projects to learn the methodology involved in tackling data science problems and apply your newly acquired skills and knowledge to real world data sets.d applying analytical techniques.
-
----
-
-## Specialization Certificate
-
-<p align="center">
-<img src="/IBM_Intro_to_Data_Science/Intro_Data_Science_Spec.png" width=80% height=80%>
-
 
 ---
 
