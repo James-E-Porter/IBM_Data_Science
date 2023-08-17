@@ -1,5 +1,5 @@
-# Python for Data Science, AI & Development
-## by IBM
+# Python for Data Science, AI & Development   <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+
 
 ### About this Course
 Kickstart your learning of Python with this beginner-friendly self-paced course taught by an expert. Python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply Python has never been higher.  
