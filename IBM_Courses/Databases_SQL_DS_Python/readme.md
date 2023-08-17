@@ -1,16 +1,21 @@
 # Databases and SQL for Data Science with Python   <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ### About this Course
-Do you want to know why Data Science has been labelled as the sexiest profession of the 21st century? After taking this course you will be able to answer this question, and get a thorough understanding of what is Data Science, what data scientists do, and learn about career paths in the field. 
+Working knowledge of SQL (or Structured Query Language) is a must for data professionals like Data Scientists, Data Analysts and Data Engineers. Much of the world's data resides in databases. SQL is a powerful language used for communicating with and extracting data from databases.  
 
-The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people using data to derive insights and predict outcomes have carved out a unique and distinct field for the work they do. This field is data science.  
+In this course you will learn SQL inside out- from the very basics of Select statements to advanced concepts like JOINs.  
 
-In today's world, we use Data Science to find patterns in data, and make meaningful, data driven conclusions and predictions.  
+You will:  
+-write foundational SQL statements like: SELECT, INSERT, UPDATE, and DELETE 
+-filter result sets, use WHERE, COUNT, DISTINCT, and LIMIT clauses 
+-differentiate between DML & DDL  
+-CREATE, ALTER, DROP and load tables 
+-use string patterns and ranges; ORDER and GROUP result sets, and built-in database functions 
+-build sub-queries and query data from multiple tables  
+-access databases as a data scientist using Jupyter notebooks with SQL and Python 
+-work with advanced concepts like Stored Procedures, Views, ACID Transactions, Inner & Outer JOINs 
 
-This course is for everyone, and teaches concepts like Machine Learning, Deep Learning, and Neural Networks  and how companies apply data science in business.  
-
-You will meet several data scientists, who will share their insights and experiences in Data Science. By taking this introductory course, you will begin your journey into the thriving field that is Data Science!
-
+Through hands-on labs and projects, you will practice building SQL queries, work with real databases on the Cloud, and use real data science tools. In the final project you’ll analyze multiple real-world datasets to demonstrate your skills.
 
 <p align="center">
 <img src="/IBM_Courses/What_is_Data_Science/What_Data_Science.png" width=80% height=80%>
