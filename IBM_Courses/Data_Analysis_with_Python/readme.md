@@ -1,6 +1,5 @@
-# Data Analysis with Python
-## by IBM
-
+# Data Analysis with Python  <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+ 
 ### About this Course
 Analyzing data with Python is an essential skill for Data Scientists and Data Analysts. This course will take you from the basics of data analysis with Python to building and evaluating data models.  
 
