@@ -14,7 +14,7 @@ At the core of data science are foundational concepts such as data visualization
 
 - [x] [__IBM AI Engineer Professional__](https://github.com/James-E-Porter/IBM_Data_Science/tree/679a6325ba911fd3820c0061062010a393e05a76/IBM_AI_Engineer_Professional/README.md)
 
-- [x] [__IBM Applied AI Professional__]
+- [x] [__IBM Applied AI Professional__](https://github.com/James-E-Porter/IBM_Data_Science/blob/9b9dd4b4b14d5bd2aee5fb304d3caebcf3b72a89/IBM_Applied_AI_Professional/README.md)
 
       
 ## Here are the Specialization Programs in this field on Coursera.
