@@ -1,5 +1,4 @@
-# Data Science Methodology
-## by IBM
+# Data Science Methodology   <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ### About this Course
 If there is a shortcut to becoming a Data Scientist, then learning to think and work like a successful Data Scientist is it. Most of the established data scientists follow a similar methodology for solving Data Science problems.  In this course you will learn and then apply this methodology that can be used to tackle any Data Science scenario.  
