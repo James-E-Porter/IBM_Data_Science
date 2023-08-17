@@ -22,5 +22,5 @@ You will meet several data scientists, who will share their insights and experie
 
 
 <p align="center">
-<img src="/IBM_Courses/What_is_Data_Science/What_Data_Science.png" width=80% height=80%>
+<img src="/IBM_Courses/Intro_Data_Analytics/intro_data_analytics.png" width=80% height=80%>
 
