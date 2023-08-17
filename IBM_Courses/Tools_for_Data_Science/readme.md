@@ -1,5 +1,7 @@
-# Tools for Data Science
-## by IBM
+# Tools for Data Science   <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+
+<p align="center">
+<img src="/IBM_Courses/Tools_for_Data_Science/Tools_Data_Science.png" width=80% height=80%>
 
 ### About this Course
 In order to be successful in Data Science, you need to be skilled with using tools that Data Science professionals employ as part of their jobs. This course teaches you about the popular tools in Data Science and how to use them. 
@@ -11,8 +13,4 @@ Work with Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson St
 This course gives plenty of hands-on experience in order to develop skills for working with these Data Science Tools. With the tools hosted in the cloud on Skills Network Labs, you will be able to test each tool and follow instructions to run simple code in Python, R, or Scala.  
 
 Towards the end the course, you will create a final project with a Jupyter Notebook. You will demonstrate your proficiency preparing a notebook, writing Markdown, and sharing your work with your peers.
-
-
-<p align="center">
-<img src="/IBM_Courses/Tools_for_Data_Science/Tools_Data_Science.png" width=80% height=80%>
 
