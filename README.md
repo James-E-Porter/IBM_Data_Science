@@ -6,7 +6,7 @@ Delve into the dynamic realm of data science and unravel the intricate patterns 
 
 At the core of data science are foundational concepts such as data visualization, machine learning, and predictive analytics. Professionals in this domain also become adept with essential tools like Python, TensorFlow, and Pandas. Through a combination of theoretical knowledge and hands-on experience, data scientists hone their ability to tackle real-world challenges, transforming raw data into meaningful solutions.
 
-## Here are the certificate programs in this field on Coursera.
+## Here are the Certificate programs in this field on Coursera.
 
 - [x] [__IBM Data Analyst Professional__](https://github.com/James-E-Porter/IBM_Data_Science/blob/43dca40451f2824cbbbb22c11554052bf6e86c61/IBM_Data_Analyst_Professional/README.md)
 
