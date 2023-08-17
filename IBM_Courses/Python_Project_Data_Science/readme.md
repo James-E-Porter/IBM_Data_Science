@@ -1,16 +1,13 @@
 # Python Project for Data Science   <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ### About this Course
-Do you want to know why Data Science has been labelled as the sexiest profession of the 21st century? After taking this course you will be able to answer this question, and get a thorough understanding of what is Data Science, what data scientists do, and learn about career paths in the field. 
+This mini-course is intended to for you to demonstrate foundational Python skills for working with data. This course primarily involves completing a project in which you will assume the role of a Data Scientist or a Data Analyst and be provided with a real-world data set and a real-world inspired scenario to identify patterns and trends. 
 
-The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people using data to derive insights and predict outcomes have carved out a unique and distinct field for the work they do. This field is data science.  
+You will perform specific data science and data analytics tasks such as extracting data, web scraping, visualizing data and creating a dashboard. This project will showcase your proficiency with Python and using libraries such as Pandas and Beautiful Soup within a Jupyter Notebook. Upon completion you will have an impressive project to add to your job portfolio.   
 
-In today's world, we use Data Science to find patterns in data, and make meaningful, data driven conclusions and predictions.  
+PRE-REQUISITE: **Python for Data Science, AI and Development** course from IBM is a pre-requisite for this project course. Please ensure that before taking this course you have either completed the Python for Data Science, AI and Development course from IBM or have equivalent proficiency in working with Python and data.  
 
-This course is for everyone, and teaches concepts like Machine Learning, Deep Learning, and Neural Networks  and how companies apply data science in business.  
-
-You will meet several data scientists, who will share their insights and experiences in Data Science. By taking this introductory course, you will begin your journey into the thriving field that is Data Science!
-
+NOTE: This course is not intended to teach you Python and does not have too much instructional content. It is intended for you to apply prior Python knowledge.
 
 <p align="center">
 <img src="/IBM_Courses/What_is_Data_Science/What_Data_Science.png" width=80% height=80%>
