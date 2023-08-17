@@ -10,8 +10,7 @@ You’ll grasp concepts like big data, statistical analysis, and relational data
 ## Specialization Certificate
 
 <p align="center">
-<img src="/Intro_Data_Science_Spec.png" width=80% height=80%>
-
+<img src="/IBM_Intro_to_Data_Science/Intro_Data_Science_Spec.png" width=80% height=80%>
 
 
 ---
