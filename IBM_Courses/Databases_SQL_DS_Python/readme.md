@@ -1,6 +1,4 @@
-# Databases and SQL for Data Science with Python
-
-## by IBM
+# Databases and SQL for Data Science with Python   <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ### About this Course
 Do you want to know why Data Science has been labelled as the sexiest profession of the 21st century? After taking this course you will be able to answer this question, and get a thorough understanding of what is Data Science, what data scientists do, and learn about career paths in the field. 
