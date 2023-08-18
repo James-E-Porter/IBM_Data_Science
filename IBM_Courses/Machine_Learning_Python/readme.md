@@ -1,7 +1,7 @@
 # Machine Learning wwith Python   <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
-
-
+<p align="center">
+<img src="/IBM_Courses/Machine_Learning_Python/ML_Python.png" width=80% height=80%>
 
 ### About this Course
 Get ready to dive into the world of Machine Learning (ML) by using Python! This course is for you whether you want to advance your Data Science career or get started in Machine Learning and Deep Learning.  
