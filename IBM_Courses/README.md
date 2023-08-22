@@ -26,9 +26,10 @@ These courses are all available on Coursera.com.  Any of the courses that I have
 
 - [x] [__Databases, SQL for Data Science with Python__](https://github.com/James-E-Porter/IBM_Data_Science/blob/198be5020f3c1c23568215a474be073164aa9793/IBM_Courses/What_is_Data_Science/readme.md)
 
-- [x] [_ Data Visualization with Dashboards__](https://github.com/James-E-Porter/IBM_Data_Science/blob/198be5020f3c1c23568215a474be073164aa9793/IBM_Courses/What_is_Data_Science/readme.md)
 
+- [x] [__Data Visualization with Dashboards__](https://github.com/James-E-Porter/IBM_Data_Science/blob/198be5020f3c1c23568215a474be073164aa9793/IBM_Courses/What_is_Data_Science/readme.md)
 
+      
 - [x] [__Data Visualization with Python__](https://github.com/James-E-Porter/IBM_Data_Science/blob/198be5020f3c1c23568215a474be073164aa9793/IBM_Courses/What_is_Data_Science/readme.md)
 
 
